@@ -1,5 +1,5 @@
 /*
- 2021 Jihwan Ahn
+Copyright 2021 Jihwan Ahn
 
 The permissions to copy, modify, use privately, and distribute are granted without permission
 and limitations if Licence and Copyright information is noticed and the changes are noticed w
